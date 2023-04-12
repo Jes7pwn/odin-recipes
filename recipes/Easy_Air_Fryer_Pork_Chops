@@ -4,47 +4,51 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spicy_Baked_Shrimp_Recipe</title>
+    <title>Easy_Air_Fryer_Pork_Chops</title>
 </head>
 <body>
-    <h1>Spicy Baked Shrimp</h1>
-    <img src="../images/.jpg">
+    <h1>Easy Air Fryer Pork Chops</h1>
+    <img src="../images/Easy_Pork_Chops.jpg">
     <h1>Description</h1>
-    <p>These spicy baked shrimp are made with a perfect blend of spices! So easy and quick to make!</p>
-    <ul>
-        <li>Prep Time: 10 mins</li>
-        <li>Cook Time: mins</li>
+    <p>Boneless pork chops cooked to perfection in the air fryer. 
+    This recipe is so easy and you couldn't ask for a more tender and juicy chop.</p>
 
+    <ul>
+        <li>Prep Time: 5 mins</li>
+        <li>Cook Time: 20 mins</li>
         <li>Total Time: 25 mins</li>
         <li>Servings: 4</li>
-        
+
     </ul>
 
     <div>
     <h1>Ingredients</h1>
     <ul>
-        <li>½ cup olive oil</li>
-        <li>Cook Time: 10 mins</li>
-        <li>2 tablespoons Cajun seasoning</li>
-        <li> tablespoons lemon juice</li>
-        <li>2 tablespoons chopped fresh parsley</li>
-        <li>1 tablespoon honey</li>
-        <li>1 tablespoon soy sauce</li>
-        <li>1 pinch cayenne pepper</li>
-        <li>1 pound uncooked shrimp, peeled and deveined</li>
-        <li> cooking spray</li>
+        <li>½ cup olive oil½ cup grated Parmesan cheese</li>
+        <li>1 teaspoon paprika</li>
+        <li>1 teaspoon garlic powder</li>
+        <li>1 teaspoon kosher salt</li>
+        <li>1 teaspoon dried parsley</li>
+        <li>½ teaspoon ground black pepper</li>
+        <li>4 (5 ounce) boneless pork chops</li>
+        <li>2 tablespoons extra virgin olive oil</li>
+        
     </ul>
     
     </div>
     <div>
     <h1>Steps:</h1>
     <ol>
-        <li>Whisk olive oil, Cajun seasoning, lemon juice, parsley, honey, soy sauce, and 
-        cayenne pepper together in a large glass or ceramic bowl. Add shrimp and toss to evenly coat. 
-        Cover the bowl with plastic wrap and marinate in the refrigerator for 1 hour. </li>
-        <li>Preheat the oven to 450 degrees F (230 degrees C). Spray a baking dish with cooking spray. </li>
-        <li> Transfer shrimp into the prepared baking dish and pour any remaining marinade over top. </li>
-        <li> Bake in the preheated oven until shrimp are bright pink on the outside and the meat is opaque, about 10 minutes. </li>
+        <li> Preheat the air fryer to 380 degrees F (190 degrees C).  </li>
+        <li> Combine Parmesan cheese, paprika, garlic powder, salt, parsley, 
+        and pepper in a flat shallow dish; mix well.  </li>
+        <li>  Coat each pork chop with olive oil. Dredge both
+        sides of each chop in the Parmesan mixture and set on a plate.  </li>
+        <li>  Place 2 chops in the basket of the air fryer and 
+        cook for 10 minutes; flipping halfway through cook time. 
+        Transfer to a cutting board and let rest for 5 minutes.
+         Repeat with remaining chops. </li>
+        <i> Served hot and enjoy!</i>
 
 
     </ol>
